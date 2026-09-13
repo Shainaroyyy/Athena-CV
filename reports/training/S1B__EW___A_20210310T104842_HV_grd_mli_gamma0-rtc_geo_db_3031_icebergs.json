@@ -1,0 +1,688 @@
+{
+  "image": "S1B__EW___A_20210310T104842_HV_grd_mli_gamma0-rtc_geo_db_3031.tif",
+  "crs": "EPSG:3031",
+  "image_dimensions": {
+    "height": 1090,
+    "width": 1250
+  },
+  "pixel_resolution_m": {
+    "x": 40.0,
+    "y": 40.0
+  },
+  "threshold": 0.5,
+  "iceberg_count": 56,
+  "icebergs": [
+    {
+      "iceberg_id": "IB_001",
+      "latitude": -66.057927,
+      "longitude": 136.302727,
+      "area_km2": 22.6608,
+      "confidence": 0.9753,
+      "pixel_count": 14163,
+      "centroid_pixel": {
+        "row": 283.87,
+        "col": 67.16
+      }
+    },
+    {
+      "iceberg_id": "IB_002",
+      "latitude": -66.025756,
+      "longitude": 136.033192,
+      "area_km2": 10.2784,
+      "confidence": 0.9875,
+      "pixel_count": 6424,
+      "centroid_pixel": {
+        "row": 134.6,
+        "col": 354.28
+      }
+    },
+    {
+      "iceberg_id": "IB_003",
+      "latitude": -65.957873,
+      "longitude": 136.129781,
+      "area_km2": 7.2048,
+      "confidence": 0.921,
+      "pixel_count": 4503,
+      "centroid_pixel": {
+        "row": 350.54,
+        "col": 407.42
+      }
+    },
+    {
+      "iceberg_id": "IB_004",
+      "latitude": -66.013218,
+      "longitude": 136.223875,
+      "area_km2": 6.8448,
+      "confidence": 0.6895,
+      "pixel_count": 4278,
+      "centroid_pixel": {
+        "row": 312.6,
+        "col": 220.4
+      }
+    },
+    {
+      "iceberg_id": "IB_005",
+      "latitude": -66.041522,
+      "longitude": 136.183082,
+      "area_km2": 6.6288,
+      "confidence": 0.894,
+      "pixel_count": 4143,
+      "centroid_pixel": {
+        "row": 222.16,
+        "col": 198.83
+      }
+    },
+    {
+      "iceberg_id": "IB_006",
+      "latitude": -66.000852,
+      "longitude": 136.119654,
+      "area_km2": 3.4256,
+      "confidence": 0.9953,
+      "pixel_count": 2141,
+      "centroid_pixel": {
+        "row": 254.62,
+        "col": 331.41
+      }
+    },
+    {
+      "iceberg_id": "IB_007",
+      "latitude": -65.831334,
+      "longitude": 135.464303,
+      "area_km2": 2.3056,
+      "confidence": 0.9995,
+      "pixel_count": 1441,
+      "centroid_pixel": {
+        "row": 69.86,
+        "col": 1210.6
+      }
+    },
+    {
+      "iceberg_id": "IB_008",
+      "latitude": -65.995624,
+      "longitude": 136.275001,
+      "area_km2": 2.2144,
+      "confidence": 0.9999,
+      "pixel_count": 1384,
+      "centroid_pixel": {
+        "row": 389.41,
+        "col": 212.27
+      }
+    },
+    {
+      "iceberg_id": "IB_009",
+      "latitude": -65.741454,
+      "longitude": 136.253138,
+      "area_km2": 2.0704,
+      "confidence": 1.0,
+      "pixel_count": 1294,
+      "centroid_pixel": {
+        "row": 892.61,
+        "col": 728.86
+      }
+    },
+    {
+      "iceberg_id": "IB_010",
+      "latitude": -65.977017,
+      "longitude": 135.935926,
+      "area_km2": 2.0096,
+      "confidence": 0.9987,
+      "pixel_count": 1256,
+      "centroid_pixel": {
+        "row": 155.95,
+        "col": 530.99
+      }
+    },
+    {
+      "iceberg_id": "IB_011",
+      "latitude": -65.964215,
+      "longitude": 135.980564,
+      "area_km2": 1.8944,
+      "confidence": 0.9977,
+      "pixel_count": 1184,
+      "centroid_pixel": {
+        "row": 217.89,
+        "col": 519.14
+      }
+    },
+    {
+      "iceberg_id": "IB_012",
+      "latitude": -66.024157,
+      "longitude": 135.910847,
+      "area_km2": 1.632,
+      "confidence": 1.0,
+      "pixel_count": 1020,
+      "centroid_pixel": {
+        "row": 39.83,
+        "col": 458.84
+      }
+    },
+    {
+      "iceberg_id": "IB_013",
+      "latitude": -66.070987,
+      "longitude": 136.209501,
+      "area_km2": 1.4144,
+      "confidence": 0.7698,
+      "pixel_count": 884,
+      "centroid_pixel": {
+        "row": 182.95,
+        "col": 119.08
+      }
+    },
+    {
+      "iceberg_id": "IB_014",
+      "latitude": -65.98129,
+      "longitude": 136.029662,
+      "area_km2": 1.4,
+      "confidence": 1.0,
+      "pixel_count": 875,
+      "centroid_pixel": {
+        "row": 222.47,
+        "col": 444.71
+      }
+    },
+    {
+      "iceberg_id": "IB_015",
+      "latitude": -65.993027,
+      "longitude": 135.946532,
+      "area_km2": 1.3536,
+      "confidence": 1.0,
+      "pixel_count": 846,
+      "centroid_pixel": {
+        "row": 131.85,
+        "col": 490.63
+      }
+    },
+    {
+      "iceberg_id": "IB_016",
+      "latitude": -65.854878,
+      "longitude": 135.455679,
+      "area_km2": 1.3296,
+      "confidence": 1.0,
+      "pixel_count": 831,
+      "centroid_pixel": {
+        "row": 15.24,
+        "col": 1170.91
+      }
+    },
+    {
+      "iceberg_id": "IB_017",
+      "latitude": -65.855986,
+      "longitude": 136.320399,
+      "area_km2": 1.256,
+      "confidence": 0.9994,
+      "pixel_count": 785,
+      "centroid_pixel": {
+        "row": 711.92,
+        "col": 447.78
+      }
+    },
+    {
+      "iceberg_id": "IB_018",
+      "latitude": -66.089336,
+      "longitude": 136.207731,
+      "area_km2": 1.1696,
+      "confidence": 0.5743,
+      "pixel_count": 731,
+      "centroid_pixel": {
+        "row": 144.02,
+        "col": 84.57
+      }
+    },
+    {
+      "iceberg_id": "IB_019",
+      "latitude": -65.737704,
+      "longitude": 136.153786,
+      "area_km2": 1.12,
+      "confidence": 1.0,
+      "pixel_count": 700,
+      "centroid_pixel": {
+        "row": 820.05,
+        "col": 819.91
+      }
+    },
+    {
+      "iceberg_id": "IB_020",
+      "latitude": -65.953591,
+      "longitude": 136.465522,
+      "area_km2": 1.0416,
+      "confidence": 0.9974,
+      "pixel_count": 651,
+      "centroid_pixel": {
+        "row": 627.53,
+        "col": 135.16
+      }
+    },
+    {
+      "iceberg_id": "IB_021",
+      "latitude": -65.732573,
+      "longitude": 136.299199,
+      "area_km2": 1.04,
+      "confidence": 0.9921,
+      "pixel_count": 650,
+      "centroid_pixel": {
+        "row": 947.98,
+        "col": 707.42
+      }
+    },
+    {
+      "iceberg_id": "IB_022",
+      "latitude": -65.9729,
+      "longitude": 136.096283,
+      "area_km2": 0.9008,
+      "confidence": 1.0,
+      "pixel_count": 563,
+      "centroid_pixel": {
+        "row": 293.0,
+        "col": 405.79
+      }
+    },
+    {
+      "iceberg_id": "IB_023",
+      "latitude": -65.999824,
+      "longitude": 135.913271,
+      "area_km2": 0.872,
+      "confidence": 1.0,
+      "pixel_count": 545,
+      "centroid_pixel": {
+        "row": 91.31,
+        "col": 504.82
+      }
+    },
+    {
+      "iceberg_id": "IB_024",
+      "latitude": -65.949182,
+      "longitude": 136.191446,
+      "area_km2": 0.848,
+      "confidence": 0.9968,
+      "pixel_count": 530,
+      "centroid_pixel": {
+        "row": 417.7,
+        "col": 373.05
+      }
+    },
+    {
+      "iceberg_id": "IB_025",
+      "latitude": -65.974551,
+      "longitude": 136.065736,
+      "area_km2": 0.7968,
+      "confidence": 1.0,
+      "pixel_count": 498,
+      "centroid_pixel": {
+        "row": 265.15,
+        "col": 427.97
+      }
+    },
+    {
+      "iceberg_id": "IB_026",
+      "latitude": -66.019641,
+      "longitude": 135.965559,
+      "area_km2": 0.776,
+      "confidence": 0.9998,
+      "pixel_count": 485,
+      "centroid_pixel": {
+        "row": 92.9,
+        "col": 422.41
+      }
+    },
+    {
+      "iceberg_id": "IB_027",
+      "latitude": -65.801441,
+      "longitude": 136.183514,
+      "area_km2": 0.68,
+      "confidence": 1.0,
+      "pixel_count": 425,
+      "centroid_pixel": {
+        "row": 713.62,
+        "col": 669.71
+      }
+    },
+    {
+      "iceberg_id": "IB_028",
+      "latitude": -65.888524,
+      "longitude": 136.367757,
+      "area_km2": 0.5952,
+      "confidence": 0.9996,
+      "pixel_count": 372,
+      "centroid_pixel": {
+        "row": 683.1,
+        "col": 344.33
+      }
+    },
+    {
+      "iceberg_id": "IB_029",
+      "latitude": -65.764845,
+      "longitude": 136.203159,
+      "area_km2": 0.5568,
+      "confidence": 1.0,
+      "pixel_count": 348,
+      "centroid_pixel": {
+        "row": 804.37,
+        "col": 725.05
+      }
+    },
+    {
+      "iceberg_id": "IB_030",
+      "latitude": -65.799938,
+      "longitude": 135.560138,
+      "area_km2": 0.5408,
+      "confidence": 1.0,
+      "pixel_count": 338,
+      "centroid_pixel": {
+        "row": 211.5,
+        "col": 1193.47
+      }
+    },
+    {
+      "iceberg_id": "IB_031",
+      "latitude": -65.805379,
+      "longitude": 136.540974,
+      "area_km2": 0.5248,
+      "confidence": 0.9965,
+      "pixel_count": 328,
+      "centroid_pixel": {
+        "row": 992.62,
+        "col": 360.92
+      }
+    },
+    {
+      "iceberg_id": "IB_032",
+      "latitude": -66.004225,
+      "longitude": 135.960831,
+      "area_km2": 0.512,
+      "confidence": 0.9997,
+      "pixel_count": 320,
+      "centroid_pixel": {
+        "row": 120.52,
+        "col": 456.7
+      }
+    },
+    {
+      "iceberg_id": "IB_033",
+      "latitude": -65.832933,
+      "longitude": 136.691457,
+      "area_km2": 0.4496,
+      "confidence": 0.9415,
+      "pixel_count": 281,
+      "centroid_pixel": {
+        "row": 1056.05,
+        "col": 180.05
+      }
+    },
+    {
+      "iceberg_id": "IB_034",
+      "latitude": -66.004614,
+      "longitude": 136.497758,
+      "area_km2": 0.408,
+      "confidence": 0.9574,
+      "pixel_count": 255,
+      "centroid_pixel": {
+        "row": 548.29,
+        "col": 8.57
+      }
+    },
+    {
+      "iceberg_id": "IB_035",
+      "latitude": -65.862899,
+      "longitude": 136.223582,
+      "area_km2": 0.3952,
+      "confidence": 0.9998,
+      "pixel_count": 247,
+      "centroid_pixel": {
+        "row": 620.05,
+        "col": 515.46
+      }
+    },
+    {
+      "iceberg_id": "IB_036",
+      "latitude": -66.01394,
+      "longitude": 136.097391,
+      "area_km2": 0.3696,
+      "confidence": 0.9507,
+      "pixel_count": 231,
+      "centroid_pixel": {
+        "row": 210.08,
+        "col": 324.21
+      }
+    },
+    {
+      "iceberg_id": "IB_037",
+      "latitude": -65.75037,
+      "longitude": 135.829634,
+      "area_km2": 0.3488,
+      "confidence": 0.9998,
+      "pixel_count": 218,
+      "centroid_pixel": {
+        "row": 531.45,
+        "col": 1066.96
+      }
+    },
+    {
+      "iceberg_id": "IB_038",
+      "latitude": -65.919496,
+      "longitude": 136.444778,
+      "area_km2": 0.3376,
+      "confidence": 0.9891,
+      "pixel_count": 211,
+      "centroid_pixel": {
+        "row": 681.05,
+        "col": 219.14
+      }
+    },
+    {
+      "iceberg_id": "IB_039",
+      "latitude": -65.925484,
+      "longitude": 136.425044,
+      "area_km2": 0.3312,
+      "confidence": 0.9949,
+      "pixel_count": 207,
+      "centroid_pixel": {
+        "row": 653.0,
+        "col": 224.0
+      }
+    },
+    {
+      "iceberg_id": "IB_040",
+      "latitude": -65.68978,
+      "longitude": 135.833433,
+      "area_km2": 0.3232,
+      "confidence": 0.9962,
+      "pixel_count": 202,
+      "centroid_pixel": {
+        "row": 657.84,
+        "col": 1183.55
+      }
+    },
+    {
+      "iceberg_id": "IB_041",
+      "latitude": -65.802613,
+      "longitude": 136.393786,
+      "area_km2": 0.312,
+      "confidence": 0.9972,
+      "pixel_count": 195,
+      "centroid_pixel": {
+        "row": 880.33,
+        "col": 490.51
+      }
+    },
+    {
+      "iceberg_id": "IB_042",
+      "latitude": -65.723216,
+      "longitude": 136.288295,
+      "area_km2": 0.2992,
+      "confidence": 0.999,
+      "pixel_count": 187,
+      "centroid_pixel": {
+        "row": 958.37,
+        "col": 734.97
+      }
+    },
+    {
+      "iceberg_id": "IB_043",
+      "latitude": -65.76218,
+      "longitude": 135.724654,
+      "area_km2": 0.272,
+      "confidence": 0.9949,
+      "pixel_count": 170,
+      "centroid_pixel": {
+        "row": 422.06,
+        "col": 1131.32
+      }
+    },
+    {
+      "iceberg_id": "IB_044",
+      "latitude": -65.871937,
+      "longitude": 136.662064,
+      "area_km2": 0.248,
+      "confidence": 0.9942,
+      "pixel_count": 155,
+      "centroid_pixel": {
+        "row": 952.16,
+        "col": 129.0
+      }
+    },
+    {
+      "iceberg_id": "IB_045",
+      "latitude": -65.991504,
+      "longitude": 136.152428,
+      "area_km2": 0.24,
+      "confidence": 0.7033,
+      "pixel_count": 150,
+      "centroid_pixel": {
+        "row": 299.93,
+        "col": 322.5
+      }
+    },
+    {
+      "iceberg_id": "IB_046",
+      "latitude": -65.909033,
+      "longitude": 136.493011,
+      "area_km2": 0.232,
+      "confidence": 0.9649,
+      "pixel_count": 145,
+      "centroid_pixel": {
+        "row": 741.03,
+        "col": 199.07
+      }
+    },
+    {
+      "iceberg_id": "IB_047",
+      "latitude": -65.990678,
+      "longitude": 136.513019,
+      "area_km2": 0.2192,
+      "confidence": 0.9625,
+      "pixel_count": 137,
+      "centroid_pixel": {
+        "row": 589.07,
+        "col": 22.98
+      }
+    },
+    {
+      "iceberg_id": "IB_048",
+      "latitude": -65.861003,
+      "longitude": 136.573479,
+      "area_km2": 0.2192,
+      "confidence": 0.9976,
+      "pixel_count": 137,
+      "centroid_pixel": {
+        "row": 904.07,
+        "col": 225.02
+      }
+    },
+    {
+      "iceberg_id": "IB_049",
+      "latitude": -65.849826,
+      "longitude": 136.263643,
+      "area_km2": 0.208,
+      "confidence": 0.984,
+      "pixel_count": 130,
+      "centroid_pixel": {
+        "row": 679.0,
+        "col": 507.5
+      }
+    },
+    {
+      "iceberg_id": "IB_050",
+      "latitude": -65.877718,
+      "longitude": 136.472441,
+      "area_km2": 0.208,
+      "confidence": 0.9744,
+      "pixel_count": 130,
+      "centroid_pixel": {
+        "row": 789.0,
+        "col": 277.5
+      }
+    },
+    {
+      "iceberg_id": "IB_051",
+      "latitude": -65.896449,
+      "longitude": 136.230807,
+      "area_km2": 0.2,
+      "confidence": 0.9665,
+      "pixel_count": 125,
+      "centroid_pixel": {
+        "row": 557.16,
+        "col": 443.6
+      }
+    },
+    {
+      "iceberg_id": "IB_052",
+      "latitude": -65.862156,
+      "longitude": 136.165001,
+      "area_km2": 0.1152,
+      "confidence": 0.875,
+      "pixel_count": 72,
+      "centroid_pixel": {
+        "row": 574.5,
+        "col": 566.0
+      }
+    },
+    {
+      "iceberg_id": "IB_053",
+      "latitude": -66.036649,
+      "longitude": 136.253526,
+      "area_km2": 0.112,
+      "confidence": 0.5594,
+      "pixel_count": 70,
+      "centroid_pixel": {
+        "row": 288.29,
+        "col": 149.79
+      }
+    },
+    {
+      "iceberg_id": "IB_054",
+      "latitude": -65.873738,
+      "longitude": 136.585582,
+      "area_km2": 0.0576,
+      "confidence": 0.6716,
+      "pixel_count": 36,
+      "centroid_pixel": {
+        "row": 887.5,
+        "col": 190.0
+      }
+    },
+    {
+      "iceberg_id": "IB_055",
+      "latitude": -65.9988,
+      "longitude": 136.513182,
+      "area_km2": 0.032,
+      "confidence": 0.5044,
+      "pixel_count": 20,
+      "centroid_pixel": {
+        "row": 572.5,
+        "col": 7.0
+      }
+    },
+    {
+      "iceberg_id": "IB_056",
+      "latitude": -66.055914,
+      "longitude": 136.162723,
+      "area_km2": 0.0256,
+      "confidence": 0.5068,
+      "pixel_count": 16,
+      "centroid_pixel": {
+        "row": 176.5,
+        "col": 187.5
+      }
+    }
+  ]
+}

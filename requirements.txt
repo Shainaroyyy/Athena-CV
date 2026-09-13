@@ -1,0 +1,7 @@
+numpy
+Pillow
+rasterio
+scipy
+pyproj
+torch
+torchvision
